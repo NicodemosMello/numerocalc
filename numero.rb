@@ -18,4 +18,4 @@ puts x * y
 puts "Div:"
 puts x / y
 
-#Informa o resusltado
+#Fim
